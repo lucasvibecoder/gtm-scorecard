@@ -50,7 +50,7 @@ Built from direct GTM Engineering experience — building enrichment workflows a
 
 ```bash
 # Clone into your Claude Code skills directory
-git clone https://github.com/YOUR_USERNAME/gtm-scorecard.git ~/.claude/skills/gtm-scorecard
+git clone https://github.com/lucasvibecoder/gtm-scorecard.git ~/.claude/skills/gtm-scorecard
 
 # Install dependency
 pip install httpx
