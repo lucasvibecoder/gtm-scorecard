@@ -63,6 +63,24 @@ Pick the 1-2 most interesting SDR/AE roles from Search 2. Search for the full JD
 ```
 Read the JD carefully for strain signals (see framework below). This is where the insight lives.
 
+**Search 4b — VERIFY JDs are live (CRITICAL):**
+Before using any JD as evidence, verify it's currently posted:
+site:[domain] [job title] careers
+
+Or check the company's careers page directly:
+[domain]/careers OR [domain]/jobs
+
+If the role appears filled, removed, or the posting says "no longer available":
+- Do NOT reference that JD in red flags, evidence, or outreach
+- Note it as "(role previously posted, now filled)" in evidence section
+- Score based on currently live roles only
+- If no live sales roles exist, the company may have completed a hiring cycle —
+  adjust diagnosis accordingly
+
+**This matters because:** Referencing a filled role in outreach destroys credibility
+instantly. The recipient knows that JD is gone. You look like you're working from
+cached data, not live intelligence.
+
 **Search 5 — Tech stack signals:**
 ```
 [company name] sales tools salesforce hubspot outreach gong
