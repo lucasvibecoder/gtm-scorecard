@@ -94,22 +94,14 @@ git clone https://github.com/lucasvibecoder/gtm-scorecard.git ~/.claude/skills/g
 That's it. No pip install. No API keys. No config.
 
 ## Usage
-
-In Claude Code:
-
 ```
+# Slash command
 /gtm-scorecard ramp.com
-```
 
-Score + find the right contact + draft outreach:
-
-```
+# Or just tell Claude Code what you want
 Score the GTM health of warmly.ai and run the prospect workflow — find the best contact and draft outreach
-```
 
-Score multiple companies:
-
-```
+# Batch
 Score these companies using the gtm-scorecard: warmly.ai, attio.com, ramp.com
 ```
 
@@ -133,7 +125,7 @@ Zero dependencies. Claude Code's native web search does all the data gathering.
 ## Demos
 
 - [Ramp (8/10) — what "good" looks like](demos/demo-ramp.md)
-- [Consulting DM example using scorecard output](demos/money-dm.md)
+- [Consulting DM example using scorecard output](demos/example-output.md)
 
 ## Framework Origin
 
